@@ -2,7 +2,9 @@ This is a text file for git testing
 Adding a second line to this file to see if the changes are identified in Git
 Adding a third line >> and making a change here
 
-Adding fifth line
-Adding sixth line
+Adding fifth line >> more changes here
+Adding sixth line >> more changes here
 https://github.com/AroojAlam/hello-world.git
 Line Eight
+Adding Line Nine
+Adding Line Ten

@@ -1,6 +1,8 @@
 This is a text file for git testing
 Adding a second line to this file to see if the changes are identified in Git
-Adding a third line
+Adding a third line >> and making a change here
 
 Adding fifth line
 Adding sixth line
+https://github.com/AroojAlam/hello-world.git
+Line Eight
